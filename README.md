@@ -1,5 +1,5 @@
 # CoderX
-A proof-of-concept AI sytstem by [Graham Neubig](http://phontron.com) (June 30, 2021).
+A proof-of-concept AI system by [Graham Neubig](http://phontron.com) (June 30, 2021).
 
 ## About CoderX
 
